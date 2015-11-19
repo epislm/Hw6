@@ -1,0 +1,14 @@
+C:\Users\episl\Desktop\Hw6>java calculator 4 + 2
+6.0
+
+C:\Users\episl\Desktop\Hw6>java calculator y + 1
+Not a number. Enter a new number :
+2
+3.0
+
+C:\Users\episl\Desktop\Hw6>java calculator y +
+Not a number. Enter a new number :
+4
+Not enough Numbers. Enter equation again :
+4 + 4
+8.0
